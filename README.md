@@ -8,6 +8,8 @@ Your task is to analyse the data from the _My Health My School_ survey with aim 
 
 You can find the data here [https://datamillnorth.org/dataset/emd7m/my-health-my-school-survey](https://datamillnorth.org/dataset/emd7m/my-health-my-school-survey). On this webpage there are short PDF reports each year that may provide some inspiration.
 
+You will be asked do a short presentation on Wednesday afternoon to introduce the other members of the data science group to your task and the approaches your are planning to take. Then, there will be a final presentation on Friday afternoon to to senior memebers of the data science group on everything you discovered. 
+
 ## Getting Started
 
 This repository contains two notebooks to help you get started. If have never used pandas before (which is a python library for working with tables) we suggest you start with the [Introduction_to_Pandas.ipynb](Introduction_to_Pandas.ipynb) notebook.
