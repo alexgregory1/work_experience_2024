@@ -8,13 +8,13 @@ Your task is to analyse the data from the _My Health My School_ survey with aim 
 
 You can find the data here [https://datamillnorth.org/dataset/emd7m/my-health-my-school-survey](https://datamillnorth.org/dataset/emd7m/my-health-my-school-survey). On this webpage there are short PDF reports each year that may provide some inspiration.
 
-You will be asked do a short presentation on Wednesday afternoon to introduce the other members of the data science group to your task and the approaches your are planning to take. Then, there will be a final presentation on Friday afternoon to to senior memebers of the data science group on everything you discovered. 
+You will be asked do a short presentation on Wednesday afternoon to introduce the other members of the data science group to your task and the approaches your are planning to take. Then, there will be a final presentation on Friday afternoon to the senior members of the data science group on everything you have discovered. 
 
 ## Getting Started
 
-This repository contains two notebooks to help you get started. If have never used pandas before (which is a python library for working with tables) we suggest you start with the [Introduction_to_Pandas.ipynb](Introduction_to_Pandas.ipynb) notebook.
+This repository contains two notebooks to help you get started. If have never used pandas before (which is a python library for working with tabular data) we suggest you start with the [Introduction_to_Pandas.ipynb](Introduction_to_Pandas.ipynb) notebook.
 
-If you are comfortable using pandas, we suggest having a look at the [Initial_Data_Exploration.ipynb](Initial_Data_Exploration.ipynb). The aim of this notebook is to give you a place to start for how to tackle the data but we encourage you to take your analysis in your own direction. Note that in order to run this notebook, you will have to download the 2023 survey data from [https://datamillnorth.org/dataset/emd7m/my-health-my-school-survey](https://datamillnorth.org/dataset/emd7m/my-health-my-school-survey). The data is quite large so we have not put it on GitHub.
+If you are comfortable using pandas, we starting with [Initial_Data_Exploration.ipynb](Initial_Data_Exploration.ipynb). The aim of this notebook is to give you a place to start for how to tackle the data but we encourage you to take your analysis in your own direction. Note that in order to run this notebook, you will have to download the 2023 survey data from [https://datamillnorth.org/dataset/emd7m/my-health-my-school-survey](https://datamillnorth.org/dataset/emd7m/my-health-my-school-survey). The data is quite large so we have not put it on GitHub.
 
 If you need help getting started please come and ask for help.
 
