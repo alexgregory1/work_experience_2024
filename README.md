@@ -17,3 +17,24 @@ This repository contains two notebooks to help you get started. If have never us
 If you are comfortable using pandas, we suggest having a look at the [Initial_Data_Exploration.ipynb](Initial_Data_Exploration.ipynb). The aim of this notebook is to give you a place to start for how to tackle the data but we encourage you to take your analysis in your own direction.
 
 If you need help getting started please come and ask for help.
+
+## Setting up your Environment (Without Git)
+
+These instructions do not use git. If you are comfortable using git feel free to use it but please do not use your personal GitHub account, create a new one just for work experience.
+
+1. Download python. We recommend using python 3.10 https://www.python.org/downloads/.
+2. Check you have python installed by opening up the command prompt and typing `python`. You should see something similar (but not exactly the same) as the following. You can exit this using the `exit()` command.
+
+```python
+Python 3.10.14 (main, Mar 19 2024, 21:46:16) [Clang 15.0.0 (clang-1500.3.9.4)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
+```
+
+3. Download this repository as a zip file by clicking the green `code` button then clicking `download zip`. If you are comfortable using git, feel free to use git instead here.
+4. Move the and unzip the zip file into somewhere sensible like `Documents\work_experience_2024`.
+5. From your command prompt, navigate to `Documents\work_experience_2024` using the `cd` command.
+6. Create a python virtual environment using `python3 -m venv .venv`.
+7. Activate the environment with `.venv\Scripts\activate`.
+8. Install the packages in `requirements.txt` using `pip install -r requirements.txt`.
+9. Run jupyter notebook by typing `jupyter notebook` into the command prompt. You should then be able to select either the [Initial_Data_Exploration.ipynb](Initial_Data_Exploration.ipynb) or [Introduction_to_Pandas.ipynb](Introduction_to_Pandas.ipynb) notebook and get started.
