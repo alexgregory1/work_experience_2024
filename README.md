@@ -38,3 +38,5 @@ Type "help", "copyright", "credits" or "license" for more information.
 7. Activate the environment with `.venv\Scripts\activate`.
 8. Install the packages in `requirements.txt` using `pip install -r requirements.txt`.
 9. Run jupyter notebook by typing `jupyter notebook` into the command prompt. You should then be able to select either the [Initial_Data_Exploration.ipynb](Initial_Data_Exploration.ipynb) or [Introduction_to_Pandas.ipynb](Introduction_to_Pandas.ipynb) notebook and get started.
+
+Ashmit
